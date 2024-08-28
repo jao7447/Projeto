@@ -1,0 +1,15 @@
+1 <!DOCTYPE html>
+2 <html lang="pt">
+3 <cabeça>
+src="https://cdnjs.cloudflare.com/ajax/lib s/p5.js/1.10.0/p5.js"></roteiro>
+src="https://cdnjs.cloudflare.com/ajax/lib s/p5.js/1.10.0/addons/p5.sound.min.js">
+<link rel="folha de estilo" tipo="texto/css" href="estilo.css">
+<meta charset="utf-8" />
+
+</cabeça>
+<corpo>
+<principal>
+</principal>
+<roteiro src=".js"></roteiro>
+</corpo>
+</html>
